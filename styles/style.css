@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Font1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Font2&display=swap');
+
+body {
+  font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+  font-size: 2em;
+}
+
+.home-title {
+  font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+  font-size: 2em;
+}
+
+body {
+  background-color: #fcfbfb;
+  text-align: center; /* Center the body content */
+}
+
+body {
+  background-color: #fcfbfb;
+  font-family: Raleway, Arial, sans-serif;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  margin: 0;
+}
+
+#content {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+
+#background {
+  height: 725px;
+  background-color: rgba(20, 30, 13, 0.7);
+}
+
+header {
+  background-color: rgba(20, 30, 13, 0.7);
+}
+
+nav a:hover {
+  background-color: black;
+}
+
+.book,
+.join {
+  background-color: rgba(20, 30, 13, 0.7);
+}
+
+.book:hover,
+.join:hover {
+  background-color: rgba(20, 30, 13, 0.7);
+}
+
+.msg {
+  background-color: rgba(20, 30, 13, 0.7);
+  line-height: 1.5em;
+}
+
+footer {
+  background-color: rgba(20, 30, 13, 0.7);
+}
+
+nav a,
+nav a:hover,
+.home-title,
+h4,
+.book,
+.join,
+.msg h2,
+.msg p,
+footer,
+footer a,
+footer a:hover {
+  color: #000;
+}
+
+.logo,
+.icon {
+  width: 80px;
+}
+
+#hero-img {
+  width: 100%;
+}
+
+nav a,
+.book,
+.join {
+  text-decoration: none;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fcfbfb;
+  text-align: center;
+  padding: 35px;
+}
+
+.book, .join {
+  background-color: #d9c2a3;
+  color: black;
+  text-decoration: none;
+  font-size: 18px;
+  padding: 15px 30px;
+  margin-top: 50px;
+}
+.card-img {
+  border: 10px solid #d9c2a3;
+}
+main section img {
+  box-sizing: border-box;
+}
+
+footer p a:hover {
+  text-decoration: underline;
+}
